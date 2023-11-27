@@ -1,1 +1,14 @@
 
+body {
+    background-color: brown; /* Replace with your desired color code or name */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
