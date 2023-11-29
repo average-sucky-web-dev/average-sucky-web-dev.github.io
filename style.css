@@ -1,14 +1,30 @@
-
-body {
-    background-color: brown; /* Replace with your desired color code or name */
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
+html {
+    background: linear-gradient(320deg, #ffae00, #d32e00);
+    background-repeat: no-repeat;
+    height: 100%
 }
 
 h1 {
     color: #333;
+    text-align: center;
 }
-
+#intro {
+    text-align: center;
+    color: #000; 
+    font-family: sans-serif
+}
 p {
     color: #666;
+}
+#reach-me-b {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    width: 20%;
+    padding-bottom: 20%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 10px;
+    margin-left: 10%;
 }
